@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Min forside</title>
     </head>
     <body>
         <form action="login.php" method="post">
